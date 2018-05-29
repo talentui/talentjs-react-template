@@ -1,0 +1,13 @@
+{
+    "extends": "./node_modules/@talentui/tools/typescript/ts.json",
+    "compilerOptions": {
+      "baseUrl": "./"
+    },
+    "exclude": [
+      "node_modules",
+      "dist",
+      "extras",
+      "webpack"
+    ]
+  }
+  
